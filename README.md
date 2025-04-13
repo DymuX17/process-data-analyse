@@ -20,6 +20,14 @@ The `process-data-analyse` module connects to an InfluxDB database to retrieve c
 - **Data Persistence**: Stores the computed metrics back into the InfluxDB database for long-term availability and integration with other system components.
 
 
+## System Diagram
+
+Below is the system diagram of Data Analysis Module.
+
+
+<img width="547" alt="InfluxDB-data_analysis_module" src="https://github.com/user-attachments/assets/11ed29b4-485e-41a6-b81c-3517e479a7d8" />
+
+
 ## Technologies Used  
 - **Python 3.9**  
 - **InfluxDB Python Client**  
